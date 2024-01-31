@@ -1,3 +1,3 @@
 # IBCSAirplaneBoardingPlanner
 This is a project created using Java and Python for the IB Computer Science Internal Assessment. 
-Will be updated.
+For information about the project, please use download the files and use the HTML Cover letter as a guide.
