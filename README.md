@@ -1,4 +1,4 @@
-This is a project I made during high school. Due to limitations of my abilities back then, this was not made compatible on other user's computers. See docs/IA-Crit-D for the project in action. 
+This is a project I made during high school. Due to limitations of my abilities back then, this was not made compatible on other user's computers. See `docs/IA-Crit-D` for the project in action. 
 # Airplane Boarding & Seating Optimization  
 **Genetic Algorithms + Cellular Automata**
 
